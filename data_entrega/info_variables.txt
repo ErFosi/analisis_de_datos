@@ -1,0 +1,28 @@
+Complain: 1 si el cliente presentó una queja en los últimos 2 años, 0 en caso contrario
+MntSweetProducts: Cantidad gastada en dulces en los últimos 2 años
+NumCatalogPurchases: Número de compras realizadas usando un catálogo
+AcceptedCmp4: 1 si el cliente aceptó la oferta en la 4ª campaña, 0 en caso contrario (Variable objetivo)
+Country: Ubicación del cliente
+MntFishProducts: Cantidad gastada en productos de pescado en los últimos 2 años
+Income: Ingreso anual del hogar del cliente
+Dt_Customer: Fecha de inscripción del cliente en la empresa
+NumWebPurchases: Número de compras realizadas a través del sitio web de la empresa
+Response: 1 si el cliente aceptó la oferta en la última campaña, 0 en caso contrario (Variable objetivo)
+Recency: Número de días desde la última compra del cliente
+Kidhome: Número de niños en el hogar del cliente
+AcceptedCmp3: 1 si el cliente aceptó la oferta en la 3ª campaña, 0 en caso contrario (Variable objetivo)
+NumWebVisitsMonth: Número de visitas al sitio web de la empresa en el último mes
+Education: Nivel educativo del cliente
+MntGoldProds: Cantidad gastada en oro en los últimos 2 años
+NumStorePurchases: Número de compras realizadas directamente en tiendas
+AcceptedCmp2: 1 si el cliente aceptó la oferta en la 2ª campaña, 0 en caso contrario (Variable objetivo)
+AcceptedCmp1: 1 si el cliente aceptó la oferta en la 1ª campaña, 0 en caso contrario (Variable objetivo)
+MntMeatProducts: Cantidad gastada en productos cárnicos en los últimos 2 años
+MntWines: Cantidad gastada en vino en los últimos 2 años
+NumDealsPurchases: Número de compras realizadas con descuento
+Teenhome: Número de adolescentes en el hogar del cliente
+AcceptedCmp5: 1 si el cliente aceptó la oferta en la 5ª campaña, 0 en caso contrario (Variable objetivo)
+Year_Birth: Año de nacimiento del cliente
+Marital_Status: Estado civil del cliente
+MntFruits: Cantidad gastada en frutas en los últimos 2 años
+ID: Identificador único del cliente
